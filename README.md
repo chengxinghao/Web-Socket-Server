@@ -5,3 +5,7 @@
 
 ## 登陆
 ![login](https://github.com/chengxinghao/Web-Socket-Server/blob/master/static/login.gif)
+
+
+## 留言板留言
+![login](https://github.com/chengxinghao/Web-Socket-Server/blob/master/static/message.gif)
